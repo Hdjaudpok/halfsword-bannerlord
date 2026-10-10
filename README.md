@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0c27c65a-c864-4a31-a48b-165df7b5a2a2
+
 # Half Sword Combat for Bannerlord (experimental)
 
 An experimental Mount & Blade II: Bannerlord mod that tries to bring Half Sword's physics-driven melee to the
