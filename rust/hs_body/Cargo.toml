@@ -1,0 +1,10 @@
+[package]
+name = "hs_body"
+version = "0.1.0"
+edition = "2021"
+publish = false
+description = "Half Sword's active-ragdoll arm re-implemented headless (private; reads the user's own dumps at runtime)"
+
+[dependencies]
+csv = "1"
+rapier3d = "0.36.0"

@@ -1,0 +1,16 @@
+# never commit game files, decompiled code or extracted assets
+*.dll
+*.pdb
+bin/
+obj/
+decomp/
+*.uasset
+*.uexp
+*.pak
+.env
+logs/
+*.fbx
+# build caches
+__pycache__/
+*.pyc
+target/

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <Id value="HalfSwordCombat" />
+  <Name value="Half Sword Combat (experimental)" />
+  <Version value="v0.0.1" />
+  <DefaultModule value="false" />
+  <ModuleCategory value="Singleplayer" />
+  <DependedModules>
+    <DependedModule Id="Bannerlord.Harmony" />
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="CustomBattle" />
+  </DependedModules>
+  <SubModules>
+    <SubModule>
+      <Name value="Half Sword Combat" />
+      <DLLName value="HalfSwordCombat.dll" />
+      <SubModuleClassType value="HalfSwordCombat.SubModule" />
+      <Tags />
+    </SubModule>
+  </SubModules>
+</Module>

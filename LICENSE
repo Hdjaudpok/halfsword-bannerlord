@@ -1,0 +1,25 @@
+Half Sword Combat licence, version 1 (2026-10-10)
+
+Copyright (c) 2026 Hdjaudpok (https://github.com/Hdjaudpok)
+
+"The Repository" means https://github.com/Hdjaudpok/halfsword-bannerlord.
+
+1. Use. Anyone may use, copy, study, modify and run the source code in the Repository, and the programs built from
+   it, for any purpose and free of charge.
+
+2. Updates go to the Repository. Changes to this project (fixes, features, updates, ports) may be published only as
+   contributions to the Repository, as pull requests or as issues carrying the change. Do not publish this project,
+   modified or not, anywhere else: not in another repository, on a mod site, in an archive or on a download page.
+
+3. GitHub forks. Forks on GitHub are allowed, as GitHub's Terms of Service (section D.5) grant for every public
+   repository. Use them to prepare contributions to the Repository.
+
+4. Contributions. By sending a contribution to the Repository, you agree that it is published there under this
+   licence.
+
+5. Third parties. This licence covers only the code written for this project. Dependencies keep their own licences,
+   for example BEPUphysics v1 (Apache-2.0) and rapier3d (Apache-2.0). Half Sword and Mount & Blade II: Bannerlord
+   belong to their owners. The Repository contains none of their files or data.
+
+6. No warranty. The software is provided "as is", without warranty of any kind, express or implied. In no event
+   shall the authors be liable for any claim, damages or other liability arising from the software or its use.
